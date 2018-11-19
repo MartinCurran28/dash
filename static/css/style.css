@@ -1,0 +1,28 @@
+.number-box {
+	margin-right: 75px;
+}
+
+.number-box, .fa.fa-gender{
+    font-size: 30px;
+    font-weight: 500;
+    
+}
+
+.fa-gender {
+	margin-right: 10px;
+}
+
+.fa-calculator {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.fa-book {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.fa-flag{
+    font-size: 40px;
+    font-weight: 500;
+}
